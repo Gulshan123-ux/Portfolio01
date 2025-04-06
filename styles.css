@@ -163,7 +163,10 @@ header nav ul li a:hover {
     color: #ff6347;
 }
 
-
+.projects a{
+    text-decoration: none;
+    color: white;
+}
 
 /* Footer styles */
 footer {
